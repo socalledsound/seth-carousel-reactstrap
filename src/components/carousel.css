@@ -1,0 +1,21 @@
+/* .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+} */
+
+.buttons-container {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+
+}
+
+.button-item {
+    padding: 12px;
+    margin-left: 20px;
+    width: 150px;
+}
+
+
+.carouselImg { 
+    width: 100%;
+  }
